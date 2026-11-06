@@ -1,0 +1,10 @@
+[
+  {"id":"m01","channel":"example-news","text":"Launch update: mainnet release is ready","posted_at":"2026-11-01T09:00:00+00:00","links":[]},
+  {"id":"m02","channel":"example-news","text":"Launch update: mainnet release is ready","posted_at":"2026-11-01T10:00:00+00:00","links":[]},
+  {"id":"m03","channel":"example-alerts","text":"A short note about a review","posted_at":"2026-11-02T09:00:00+00:00","links":["https://sample.invalid/report"]},
+  {"id":"m04","channel":"example-chat","text":"More context for the same report","posted_at":"2026-11-02T10:00:00+00:00","links":["http://sample.invalid/report/?source=chat"]},
+  {"id":"m05","channel":"example-chat","text":"Weekly digest roundup","posted_at":"2026-11-03T09:00:00+00:00","links":[]},
+  {"id":"m06","channel":"example-news","text":"A launch note for later","posted_at":"2026-11-04T09:00:00+00:00","links":[]},
+  {"id":"m07","channel":"example-alerts","text":"Launch update: mainnet release is ready","posted_at":"2026-11-05T09:00:00+00:00","links":[]},
+  {"id":"m08","channel":"example-alerts","text":"Audit found an incident; response is ready","posted_at":"2026-11-06T09:00:00+00:00","links":[]}
+]
