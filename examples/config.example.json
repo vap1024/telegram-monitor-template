@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {"name": "launch-signals", "category": "launch", "keywords": ["launch", "mainnet"], "weight": 1.0, "min_matches": 1},
+    {"name": "risk-signals", "category": "risk", "keywords": ["audit", "incident"], "weight": 2.0, "min_matches": 1},
+    {"name": "digest-signals", "category": "digest", "keywords": ["digest", "weekly"], "weight": 2.0, "min_matches": 1},
+    {"name": "launch-detail", "category": "launch", "keywords": ["release", "ready"], "weight": 1.0, "min_matches": 1}
+  ],
+  "alert_threshold": 2.0,
+  "dedup_window_hours": 24,
+  "muted_categories": ["digest"]
+}
